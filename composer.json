@@ -1,0 +1,11 @@
+{
+    "name": "vjach/myframe2",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src"
+        }
+    },
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    }
+}
